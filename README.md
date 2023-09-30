@@ -1,4 +1,4 @@
-#Assignment 1
+#Assignment
 
 The project covers question 1 to 4 of Home Assignment 1.
 
